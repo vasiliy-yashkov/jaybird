@@ -22,8 +22,8 @@ import org.firebirdsql.jaybird.xca.FBManagedConnectionFactory;
 import org.firebirdsql.jdbc.FBConnectionProperties;
 import org.firebirdsql.logging.LoggerFactory;
 
-import javax.naming.*;
-import javax.naming.spi.ObjectFactory;
+import android.javax.naming.*;
+import android.javax.naming.spi.ObjectFactory;
 import java.io.*;
 import java.util.Hashtable;
 

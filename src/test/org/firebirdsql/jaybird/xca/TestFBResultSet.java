@@ -21,9 +21,9 @@ package org.firebirdsql.jaybird.xca;
 import org.firebirdsql.jdbc.FBConnection;
 import org.junit.Test;
 
-import javax.sql.DataSource;
-import javax.transaction.xa.XAResource;
-import javax.transaction.xa.Xid;
+import android.javax.sql.DataSource;
+import android.javax.transaction.xa.XAResource;
+import android.javax.transaction.xa.Xid;
 import java.sql.*;
 
 import static org.firebirdsql.common.DdlHelper.executeCreateTable;

@@ -23,7 +23,7 @@ package org.firebirdsql.ds;
 import java.sql.Connection;
 import java.sql.SQLException;
 
-import javax.sql.PooledConnection;
+import android.javax.sql.PooledConnection;
 
 import org.firebirdsql.jdbc.FirebirdStatement;
 import org.junit.Test;

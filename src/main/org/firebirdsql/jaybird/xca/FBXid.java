@@ -18,7 +18,7 @@
  */
 package org.firebirdsql.jaybird.xca;
 
-import javax.transaction.xa.Xid;
+import android.javax.transaction.xa.Xid;
 import java.io.EOFException;
 import java.io.IOException;
 import java.io.InputStream;

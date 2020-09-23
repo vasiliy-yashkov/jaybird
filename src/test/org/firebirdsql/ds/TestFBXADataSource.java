@@ -29,9 +29,9 @@ import org.firebirdsql.jdbc.SQLStateConstants;
 import org.junit.*;
 import org.junit.rules.ExpectedException;
 
-import javax.sql.XAConnection;
-import javax.transaction.xa.XAResource;
-import javax.transaction.xa.Xid;
+import android.javax.sql.XAConnection;
+import android.javax.transaction.xa.XAResource;
+import android.javax.transaction.xa.Xid;
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;

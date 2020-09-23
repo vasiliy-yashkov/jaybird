@@ -23,10 +23,10 @@ import java.sql.SQLException;
 import java.util.List;
 import java.util.concurrent.CopyOnWriteArrayList;
 
-import javax.sql.ConnectionEvent;
-import javax.sql.ConnectionEventListener;
-import javax.sql.PooledConnection;
-import javax.sql.StatementEventListener;
+import android.javax.sql.ConnectionEvent;
+import android.javax.sql.ConnectionEventListener;
+import android.javax.sql.PooledConnection;
+import android.javax.sql.StatementEventListener;
 
 import org.firebirdsql.jdbc.FBSQLException;
 import org.firebirdsql.jdbc.SQLStateConstants;

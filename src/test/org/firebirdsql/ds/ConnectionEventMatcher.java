@@ -22,8 +22,8 @@ package org.firebirdsql.ds;
 
 import java.sql.SQLException;
 
-import javax.sql.ConnectionEvent;
-import javax.sql.PooledConnection;
+import android.javax.sql.ConnectionEvent;
+import android.javax.sql.PooledConnection;
 
 import org.hamcrest.Description;
 import org.hamcrest.Matcher;

@@ -22,7 +22,7 @@ import org.firebirdsql.jdbc.FBConnection;
 import org.junit.After;
 import org.junit.Test;
 
-import javax.sql.DataSource;
+import android.javax.sql.DataSource;
 import java.io.ByteArrayInputStream;
 import java.io.InputStream;
 import java.io.OutputStream;

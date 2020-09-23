@@ -24,7 +24,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-import javax.sql.PooledConnection;
+import android.javax.sql.PooledConnection;
 
 /**
  * Helper class for closing JDBC resources, ignoring all SQLExceptions.

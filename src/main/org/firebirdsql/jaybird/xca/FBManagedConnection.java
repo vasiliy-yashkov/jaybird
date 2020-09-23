@@ -38,9 +38,9 @@ import org.firebirdsql.jdbc.field.FieldDataProvider;
 import org.firebirdsql.logging.Logger;
 import org.firebirdsql.logging.LoggerFactory;
 
-import javax.transaction.xa.XAException;
-import javax.transaction.xa.XAResource;
-import javax.transaction.xa.Xid;
+import android.javax.transaction.xa.XAException;
+import android.javax.transaction.xa.XAResource;
+import android.javax.transaction.xa.Xid;
 import java.io.ByteArrayInputStream;
 import java.io.IOException;
 import java.net.SocketTimeoutException;
@@ -745,7 +745,7 @@ public class FBManagedConnection implements ExceptionListener, Synchronizable {
      * @throws XAException
      *         An error has occurred. Possible values are XAER_RMERR, XAER_RMFAIL, XAER_INVAL, and XAER_PROTO.
      */
-    private Xid[] recover(int flags) throws javax.transaction.xa.XAException {
+    private Xid[] recover(int flags) throws android.javax.transaction.xa.XAException {
         if (flags != XAResource.TMSTARTRSCAN && flags != XAResource.TMENDRSCAN && flags != XAResource.TMNOFLAGS
                 && flags != (XAResource.TMSTARTRSCAN | XAResource.TMENDRSCAN)) {
             throw new FBXAException("flag not allowed in this context: " + flags + ", valid flags are TMSTARTRSCAN, TMENDRSCAN, TMNOFLAGS, TMSTARTRSCAN|TMENDRSCAN", XAException.XAER_PROTO);
@@ -820,7 +820,7 @@ public class FBManagedConnection implements ExceptionListener, Synchronizable {
      *         An error has occurred. Possible values are XAER_RMERR,
      *         XAER_RMFAIL, XAER_INVAL, and XAER_PROTO.
      */
-    protected Xid findSingleXid(Xid externalXid) throws javax.transaction.xa.XAException {
+    protected Xid findSingleXid(Xid externalXid) throws android.javax.transaction.xa.XAException {
         try {
             FbTransaction trHandle2 = database.startTransaction(tpb.getTransactionParameterBuffer());
 

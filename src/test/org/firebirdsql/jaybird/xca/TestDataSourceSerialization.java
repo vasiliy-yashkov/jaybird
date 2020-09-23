@@ -20,7 +20,7 @@ package org.firebirdsql.jaybird.xca;
 
 import org.junit.Test;
 
-import javax.sql.DataSource;
+import android.javax.sql.DataSource;
 import java.rmi.MarshalledObject;
 import java.sql.Connection;
 

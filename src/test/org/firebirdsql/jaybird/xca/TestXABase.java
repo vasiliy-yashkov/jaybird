@@ -20,7 +20,7 @@ package org.firebirdsql.jaybird.xca;
 
 import org.firebirdsql.common.FBJUnit4TestBase;
 
-import javax.transaction.xa.Xid;
+import android.javax.transaction.xa.Xid;
 import java.io.Serializable;
 import java.net.InetAddress;
 import java.net.UnknownHostException;

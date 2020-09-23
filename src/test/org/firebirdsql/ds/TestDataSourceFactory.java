@@ -23,7 +23,7 @@ import org.junit.Test;
 import java.sql.Connection;
 import java.sql.SQLException;
 
-import javax.naming.Reference;
+import android.javax.naming.Reference;
 
 import static org.junit.Assert.*;
 

@@ -24,7 +24,7 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.ClassRule;
 
-import javax.sql.PooledConnection;
+import android.javax.sql.PooledConnection;
 import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;

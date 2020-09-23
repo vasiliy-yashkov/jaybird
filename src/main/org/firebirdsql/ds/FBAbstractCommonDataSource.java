@@ -20,10 +20,10 @@ package org.firebirdsql.ds;
 
 import java.sql.SQLException;
 
-import javax.naming.BinaryRefAddr;
-import javax.naming.NamingException;
-import javax.naming.Reference;
-import javax.naming.StringRefAddr;
+import android.javax.naming.BinaryRefAddr;
+import android.javax.naming.NamingException;
+import android.javax.naming.Reference;
+import android.javax.naming.StringRefAddr;
 
 import org.firebirdsql.gds.DatabaseParameterBuffer;
 import org.firebirdsql.gds.TransactionParameterBuffer;

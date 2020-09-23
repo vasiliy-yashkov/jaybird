@@ -39,8 +39,8 @@ import org.junit.rules.ExpectedException;
 import org.junit.rules.RuleChain;
 import org.junit.rules.TestRule;
 
-import javax.sql.PooledConnection;
-import javax.sql.XAConnection;
+import android.javax.sql.PooledConnection;
+import android.javax.sql.XAConnection;
 import java.sql.*;
 import java.util.Properties;
 

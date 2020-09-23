@@ -87,7 +87,7 @@ dependencies {
 sourceSets {
     main {
         java {
-            srcDirs = ['src/main', 'src/extern', 'src/jdbc_42', 'src/jna-client', 'src/openoffice']
+            srcDirs = ['src/main', 'src/extern', 'src/jdbc_42', 'src/jna-client', 'src/openoffice', 'src/android']
         }
         resources {
             srcDirs = ['src/resources']

@@ -23,11 +23,11 @@ import org.firebirdsql.gds.impl.GDSType;
 import org.firebirdsql.jaybird.xca.FBManagedConnectionFactory;
 import org.firebirdsql.jdbc.FBDataSource;
 
-import javax.naming.NamingException;
-import javax.naming.Reference;
-import javax.naming.Referenceable;
-import javax.sql.ConnectionPoolDataSource;
-import javax.sql.PooledConnection;
+import android.javax.naming.NamingException;
+import android.javax.naming.Reference;
+import android.javax.naming.Referenceable;
+import android.javax.sql.ConnectionPoolDataSource;
+import android.javax.sql.PooledConnection;
 import java.sql.SQLException;
 
 /**

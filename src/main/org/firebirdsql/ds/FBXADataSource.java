@@ -27,11 +27,11 @@ import org.firebirdsql.jdbc.FirebirdConnection;
 import org.firebirdsql.logging.Logger;
 import org.firebirdsql.logging.LoggerFactory;
 
-import javax.naming.NamingException;
-import javax.naming.Reference;
-import javax.naming.Referenceable;
-import javax.sql.XAConnection;
-import javax.sql.XADataSource;
+import android.javax.naming.NamingException;
+import android.javax.naming.Reference;
+import android.javax.naming.Referenceable;
+import android.javax.sql.XAConnection;
+import android.javax.sql.XADataSource;
 import java.io.Serializable;
 import java.sql.SQLException;
 

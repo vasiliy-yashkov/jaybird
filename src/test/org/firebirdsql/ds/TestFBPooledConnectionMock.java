@@ -21,8 +21,8 @@ package org.firebirdsql.ds;
 import java.sql.Connection;
 import java.sql.SQLException;
 
-import javax.sql.ConnectionEvent;
-import javax.sql.ConnectionEventListener;
+import android.javax.sql.ConnectionEvent;
+import android.javax.sql.ConnectionEventListener;
 
 import org.firebirdsql.jdbc.FBSQLException;
 import org.firebirdsql.jdbc.SQLStateConstants;

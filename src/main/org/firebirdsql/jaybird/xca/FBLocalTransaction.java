@@ -20,9 +20,9 @@ package org.firebirdsql.jaybird.xca;
 
 import org.firebirdsql.jdbc.SQLStateConstants;
 
-import javax.transaction.xa.XAException;
-import javax.transaction.xa.XAResource;
-import javax.transaction.xa.Xid;
+import android.javax.transaction.xa.XAException;
+import android.javax.transaction.xa.XAResource;
+import android.javax.transaction.xa.Xid;
 import java.sql.SQLException;
 
 /**

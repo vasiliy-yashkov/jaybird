@@ -22,8 +22,8 @@ import java.lang.ref.WeakReference;
 import java.sql.Connection;
 import java.sql.SQLException;
 
-import javax.sql.XAConnection;
-import javax.transaction.xa.XAResource;
+import android.javax.sql.XAConnection;
+import android.javax.transaction.xa.XAResource;
 
 import org.firebirdsql.jaybird.xca.FBManagedConnection;
 import org.firebirdsql.jdbc.FBConnection;

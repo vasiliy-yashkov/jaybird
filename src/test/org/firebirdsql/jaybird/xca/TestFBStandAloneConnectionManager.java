@@ -21,7 +21,7 @@ package org.firebirdsql.jaybird.xca;
 import org.firebirdsql.jdbc.FBConnection;
 import org.junit.Test;
 
-import javax.sql.DataSource;
+import android.javax.sql.DataSource;
 import java.sql.Connection;
 import java.sql.Statement;
 

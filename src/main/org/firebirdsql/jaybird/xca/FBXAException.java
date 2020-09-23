@@ -21,7 +21,7 @@ package org.firebirdsql.jaybird.xca;
 import java.io.PrintStream;
 import java.io.PrintWriter;
 
-import javax.transaction.xa.XAException;
+import android.javax.transaction.xa.XAException;
 
 /**
  * Convenience exception that adds constructor taking message and error code

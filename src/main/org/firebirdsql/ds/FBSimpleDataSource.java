@@ -26,8 +26,8 @@ import org.firebirdsql.jaybird.xca.FBManagedConnectionFactory;
 import org.firebirdsql.jdbc.FBDataSource;
 import org.firebirdsql.jdbc.FirebirdConnectionProperties;
 
-import javax.naming.*;
-import javax.sql.DataSource;
+import android.javax.naming.*;
+import android.javax.sql.DataSource;
 import java.io.Serializable;
 import java.sql.Connection;
 import java.sql.SQLException;
